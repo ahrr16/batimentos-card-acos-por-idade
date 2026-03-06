@@ -17,7 +17,3 @@ elif (idade >= 8) and (idade <= 17):
     else:
         print('Acima')
 
-x = 23
-y = 10
-z = 2
-print(x % y >= y / z)
